@@ -1,0 +1,18 @@
+h1 {text-align:center;
+	width:50%;
+	position:relative;
+	left:12.5%;}
+	table { width:500px;
+			        border-collapse:collapse;
+					background-color:lightblue;}
+		    table, td ,th{ border:1px solid black;
+			               padding:4px;}
+			td     {   text-align:center;
+			          color: black;
+					  background-color:white;
+					  }
+		  em { font-weight: bold; color:black;}
+		   .greenMove { color: green;
+		                position:relative;
+						top:25px;
+						left:15px;}
